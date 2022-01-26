@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -alm | grep -E'^[0-9]+
